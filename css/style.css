@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
+
+
 
 
 main {
@@ -13,16 +16,16 @@ main {
 }
 
 main > header {
-    padding: 1.7% 5%;
+    padding: 1.7% 10%;
     border-color: rgb(245, 248, 249);
     
 }
 #logo {
-    padding-left: 10px;
+    padding: 1%;
 }
 
 section {
-    padding: 10px 20px;
+    padding: 20px 10%;
 }
 
 article{
@@ -93,6 +96,7 @@ p{
 
 
 .content{
+    margin: 1.5% 2%;
     display: inline-block;
 }
 
