@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+main {
+
+    width: 80%;
+    margin:2% auto;
+    
+}
+
+main > header {
+    padding: 1.7% 5%;
+    border-color: rgb(245, 248, 249);
+    
+}
+#logo {
+    padding-left: 10px;
+}
+
+section {
+    padding: 10px 20px;
+}
+
+article{
+    margin-top: 20px;
+}
+
+#plusTask, #plusSect{
+    padding: 0.5%;
+    border-radius: 7px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+#plusTask {
+    color: white;
+    background-color: rgb(69, 171, 233);
+    border-color: rgb(69, 171, 233);
+}
+#plusSect{
+    color: darkgray;
+    border-color: darkgray;
+    background-color: white;
+}
+
+
+header > img {
+    vertical-align: middle;
+    padding: 0.7%;
+}
+header h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header, main {
+    background-color: white;
+    
+}
+
+
+body {
+    background-color: rgb(245, 248, 249);
+}
+#check {
+    line-height: 20px;
+}
+
+p{
+    font-size: 1em;
+    line-height: 30px;
+
+}
+
+.r {
+    border-color: green;
+    color: green;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font: 1em sans-serif;
+    border-radius: 100px;
+    border-style:solid;
+    border-width: 2px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+.content{
+    display: inline-block;
+}
+
+.w {
+    border-color: red;
+    color: red;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font: 1em sans-serif;
+    border-radius: 100px;
+    border-style:solid;
+    border-width: 2px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.btn{
+    border-radius: 7px;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 0.5em;
+    color: white;
+    vertical-align: middle;
+}
+
+.blu {
+    background-color: rgb(69, 171, 233);
+    border-color: rgb(69, 171, 233);
+}
+
+.purple {
+    background-color: purple;
+    border-color: purple;
+}
+
+.orange {
+    background-color: orange;
+    border-color: orange;
+}
+
+.green {
+    background-color: green;
+    border-color: green;
+}
+
+.pink {
+    background-color: pink;
+    border-color: pink;
+}
+
+.yellow {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}
